@@ -1,6 +1,6 @@
 # Galaxy - W4M
 #
-# VERSION       2.5.2.0-17.01
+# VERSION       2.6.0.0-17.01
 
 #FROM quay.io/bgruening/galaxy:jmc_conda
 FROM quay.io/bgruening/galaxy:release_17.01
